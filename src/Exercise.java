@@ -3,6 +3,6 @@
 
 public class Exercise {
     public static int Calculate(int P){
-        return (int) (P + ",");
+        return (int) (P);
     }
 }
